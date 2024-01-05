@@ -74,5 +74,6 @@ if  (temp_val<=28)
     Serial.print("FOOD OK ");
     digitalWrite(5, LOW); 
   delay(1000);
-}
+
+  }
 }
