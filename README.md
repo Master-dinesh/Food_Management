@@ -1,3 +1,4 @@
+Author: DINESH S
 This project aims to develop an embedded C system to effectively manage food storage and reduce waste. It will involve designing and implementing hardware and software components to:
 
 Monitor food quantities and conditions: Track expiration dates, freshness levels, and storage conditions using sensors and data-logging capabilities.
